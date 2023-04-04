@@ -1,0 +1,14 @@
+.box p{
+    width: 300px;
+}
+
+h2{
+    margin-top: 50px;
+    font-size: 20px;
+
+}
+
+#tittle{
+    text-decoration: underline;
+    text-align: center;
+}
